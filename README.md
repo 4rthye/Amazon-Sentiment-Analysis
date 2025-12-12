@@ -41,9 +41,9 @@ This project performs sentiment classification on Amazon product reviews to iden
    - Confusion matrices
 
 ## 📊 Results
-- **TextBlob Accuracy**: ~XX% (add your result)
-- **VADER Accuracy**: ~XX% (add your result)
-- Found that [VADER/TextBlob] performed better for this dataset
+- **TextBlob Accuracy**:  79.49%
+- **VADER Accuracy**: 80.99%
+- Found that VADER performed better for this dataset
 
 ## 🖼️ Sample Visualizations
 <img width="998" height="745" alt="sample_visualization_1" src="https://github.com/user-attachments/assets/591b7204-a14b-4302-97eb-15ac3ed27ec4" />
