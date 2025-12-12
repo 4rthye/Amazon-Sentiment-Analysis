@@ -78,10 +78,9 @@ This project performs sentiment classification on Amazon product reviews to iden
 ```
 
 ## 📈 Key Findings
-- Positive reviews (4-5 stars) dominate the dataset (~XX%)
+- Positive reviews (4-5 stars) dominate the dataset 
 - Common positive words: [product, great, love, good, quality]
 - Common negative words: [waste, terrible, bad, disappointed]
-- Average review length: ~XXX characters
 
 ## 🎓 What I Learned
 - Text preprocessing techniques (cleaning, tokenization, lemmatization)
