@@ -18,9 +18,17 @@ This project performs sentiment classification on Amazon product reviews to iden
 - **WordCloud** - Text visualization
 
 ## 📁 Dataset
-- **Source**: Amazon Product Reviews (Kaggle)
+- **Source**: [Amazon Fine Food Reviews - Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 - **Size**: 568,454 total reviews (sampled 10,000 for analysis)
 - **Features**: Product ID, User ID, Rating (1-5 stars), Review Text, Timestamp
+
+**Note**: Dataset is not included in this repository due to size. Download it from the Kaggle link.
+
+### How to Get the Dataset:
+1. Visit the [Kaggle dataset page](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+2. Click "Download" (you may need to create a free Kaggle account)
+3. Extract the ZIP file
+4. Place `Reviews.csv` in the project folder
 
 ## 🔍 What I Did
 1. **Data Preprocessing**
