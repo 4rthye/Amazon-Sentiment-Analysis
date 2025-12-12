@@ -104,8 +104,8 @@ This project performs sentiment classification on Amazon product reviews to iden
 
 ## 👤 Author
 **Your Name**
-- GitHub: [@your_username](https://github.com/4rthye)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/arthyesridharan)
+- GitHub: [@4rthye](https://github.com/4rthye)
+- LinkedIn: [arthyesridharan](https://linkedin.com/in/arthyesridharan)
 
 ## 📄 License
 This project is open source and available under the MIT License.
